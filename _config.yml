@@ -1,4 +1,3 @@
-layout_spectrum: 0.15864024451002479
 typography_spectrum: 0.19643721473403275
 color:
   brandStrength: 0.6114906999282539
@@ -11,5 +10,7 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
+layout_spectrum: 0.15864024451002479
 name: 83summers
 title: 83summers
+description: less is more
